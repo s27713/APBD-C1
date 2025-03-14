@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-static double ObliczSrednia(int[] liczby)
+static double ObliczMaxWrt(int[] liczby)
 {
     return liczby.Max();
 }
