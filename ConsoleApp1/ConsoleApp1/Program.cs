@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-static double Oblicz(int[] liczby)
+static double ObliczMaxWrt(int[] liczby)
 {
-    return liczby.Average();
+    return liczby.Max();
 }
