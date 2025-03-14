@@ -1,3 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("Hej, hej, hej");
+static double ObliczSrednia(int[] liczby)
+{
+    return liczby.Average();
+}
